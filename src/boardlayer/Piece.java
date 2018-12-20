@@ -21,6 +21,6 @@ public abstract class Piece {
 
     public boolean isThereAnyPossibleMove() {
 
-        return true
+        return true;
     }
 }
